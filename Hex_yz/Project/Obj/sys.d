@@ -2,7 +2,7 @@
 .\obj\sys.o: ..\SYSTEM\sys\sys.h
 .\obj\sys.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\obj\sys.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\obj\sys.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\sys.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
 .\obj\sys.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\obj\sys.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\obj\sys.o: ..\Libraries\CMSIS\Include\core_cm4_simd.h

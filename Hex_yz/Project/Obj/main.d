@@ -2,7 +2,7 @@
 .\obj\main.o: ..\MYLIB\pbdata.h
 .\obj\main.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\obj\main.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\obj\main.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
 .\obj\main.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\obj\main.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\obj\main.o: ..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -37,15 +37,15 @@
 .\obj\main.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
 .\obj\main.o: ..\SYSTEM\delay\delay.h
 .\obj\main.o: ..\SYSTEM\sys\sys.h
-.\obj\main.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\obj\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
 .\obj\main.o: ..\MYLIB\can1.h
-.\obj\main.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
 .\obj\main.o: ..\MYLIB\kulun.h
 .\obj\main.o: ..\MYLIB\pbdata.h
 .\obj\main.o: ..\MYLIB\myiic.h
 .\obj\main.o: ..\MYLIB\REGSREG.h
 .\obj\main.o: ..\MYLIB\RC.h
-.\obj\main.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
 .\obj\main.o: ..\MYLIB\pstwo.h
 .\obj\main.o: ..\MYLIB\time.h
 .\obj\main.o: ..\MYLIB\Transfer.h

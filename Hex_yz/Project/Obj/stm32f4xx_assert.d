@@ -2,7 +2,7 @@
 .\obj\stm32f4xx_assert.o: ..\User\main.h
 .\obj\stm32f4xx_assert.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\obj\stm32f4xx_assert.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\obj\stm32f4xx_assert.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\stm32f4xx_assert.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
 .\obj\stm32f4xx_assert.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\obj\stm32f4xx_assert.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\obj\stm32f4xx_assert.o: ..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -39,15 +39,15 @@
 .\obj\stm32f4xx_assert.o: ..\MYLIB\pbdata.h
 .\obj\stm32f4xx_assert.o: ..\SYSTEM\delay\delay.h
 .\obj\stm32f4xx_assert.o: ..\SYSTEM\sys\sys.h
-.\obj\stm32f4xx_assert.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\obj\stm32f4xx_assert.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\can1.h
-.\obj\stm32f4xx_assert.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\stm32f4xx_assert.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\kulun.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\pbdata.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\myiic.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\REGSREG.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\RC.h
-.\obj\stm32f4xx_assert.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\stm32f4xx_assert.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\pstwo.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\time.h
 .\obj\stm32f4xx_assert.o: ..\MYLIB\Transfer.h

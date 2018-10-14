@@ -2,7 +2,7 @@
 .\obj\stm32f4xx_gpio.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
 .\obj\stm32f4xx_gpio.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\obj\stm32f4xx_gpio.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\obj\stm32f4xx_gpio.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\stm32f4xx_gpio.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
 .\obj\stm32f4xx_gpio.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\obj\stm32f4xx_gpio.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\obj\stm32f4xx_gpio.o: ..\Libraries\CMSIS\Include\core_cm4_simd.h

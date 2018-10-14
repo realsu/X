@@ -46,6 +46,7 @@ int main(void)
 
 		while(1)
 		{
+			RC.cmd_direction = 0;
 			KEY = key_get();    //获取键值
 			KEY_SWITCH(KEY);		//根据按键确定每次的控制指令初始值（控制角度、控制速度等）
 			
